@@ -1,0 +1,23 @@
+.home__container {
+	width: 90%;
+	margin: auto;
+	padding-top: 100px;
+	display: flex;
+	flex-direction: row;
+
+	justify-content: space-around;
+	align-items: baseline;
+	flex-wrap: wrap;
+}
+
+.row-home__container{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+
+	width: 90%;
+	padding: 20px;
+	background-color: #ffffff09;
+	border-radius: 10px;
+}
